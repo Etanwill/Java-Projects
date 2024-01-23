@@ -1,6 +1,7 @@
 module com.example.mp3app {
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.media;
 
     requires com.dlsc.formsfx;
 
